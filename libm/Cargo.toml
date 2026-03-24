@@ -1,5 +1,17 @@
 [package]
+<<<<<<< Updated upstream
 authors = ["Jorge Aparicio <jorge@japaric.io>"]
+=======
+name = "libm"
+version = "0.2.17"
+authors = [
+    "Alex Crichton <alex@alexcrichton.com>",
+    "Amanieu d'Antras <amanieu@gmail.com>",
+    "Jorge Aparicio <japaricious@gmail.com>",
+    "Trevor Gross <tg@trevorgross.com>",
+]
+description = "libm in pure Rust"
+>>>>>>> Stashed changes
 categories = ["no-std"]
 description = "libm in pure Rust"
 documentation = "https://docs.rs/libm"
